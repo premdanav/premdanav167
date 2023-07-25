@@ -19,6 +19,9 @@ public class LargestNum {
 
         else
             System.out.println(n3 + " is the largest number.");
+
+        System.out.println("The average of three numbers is: "+((n1+n2+n3)/3));
+        
     }
 }
               
